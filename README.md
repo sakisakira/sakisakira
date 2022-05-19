@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakisakira
 - 👀 I’m interested in realtime graphics, designing a language, compiler, and so on.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning how to draw pixel arts.
 - 💞️ I’m looking to collaborate on TIC-80.
 - 📫 How to reach me ...
 
